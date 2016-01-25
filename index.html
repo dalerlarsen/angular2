@@ -26,12 +26,23 @@
           }
         }
       });
-      System.import('app/12-ng-class/main')
+      System.import('app/13-style-encapsulation/main')
             .then(null, console.error.bind(console));
     </script>
 
+    <style>
+      .completed{
+        background-color: red;
+      }
+      .started{
+        background-color: yellow;
+      }
+    </style>
+
   </head>
   <body>
+    <div class="completed">Completed</div>
+    <div class="started">Started</div>
     <app></app>
   </body>
 </html>

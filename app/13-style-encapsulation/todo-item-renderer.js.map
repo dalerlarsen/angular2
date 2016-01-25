@@ -1,0 +1,1 @@
+{"version":3,"file":"todo-item-renderer.js","sourceRoot":"","sources":["todo-item-renderer.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;YAgBA;gBAAA;gBAEA,CAAC;gBADC;oBAAC,YAAK,EAAE;;8DAAA;gBAfV;oBAAC,gBAAS,CAAC;wBACT,aAAa,EAAE,wBAAiB,CAAC,IAAI;wBACrC,QAAQ,EAAE,oBAAoB;wBAC9B,QAAQ,EAAE,4NASH;qBACR,CAAC;;oCAAA;gBAGF,uBAAC;YAAD,CAAC,AAFD,IAEC;YAFD,+CAEC,CAAA"}
